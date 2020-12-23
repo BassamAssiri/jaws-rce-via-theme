@@ -1,4 +1,4 @@
-# jaws-rce-via-theme
+# jaws-rce-via-theme CVE-2020-35657
 
 
 python jaws-rce2.py
