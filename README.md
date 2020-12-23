@@ -13,3 +13,7 @@ Shell Location=== http://192.168.1.98/jaws-master/jaws-master/data/themes/cmd.ph
 GIF89a
 
 root
+
+#Discoverer
+
+Bassam Assiri https://twitter.com/BassamAssiri  https://www.linkedin.com/in/bassam-assiri-9418401ab/
